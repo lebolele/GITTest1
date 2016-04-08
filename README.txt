@@ -3,3 +3,4 @@ Test repo
 Added Lebolele
 Add Kotsana
 Added Krugersdorp
+Added Lesotho
