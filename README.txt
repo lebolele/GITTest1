@@ -6,3 +6,4 @@
 6.Added Maseru
 7.Added Lesotho
 8.Added Literapeng
+9.Katlehong
