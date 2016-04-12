@@ -14,5 +14,5 @@
 14. Change No 14
 15. Change No 15
 16. Change No 16
-19. Change No 19
-20. Change No 20
+17. Change No 17
+18. Change No  18
